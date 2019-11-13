@@ -8,3 +8,10 @@ In order to run this application, you should have the MySQL database already set
 
 * Node npm-i-mysql Spotify-this-song <song name>
     * ![!](https://github.com/msiller93/Bamazon/blob/master/bamazon-gifs/npm-i-mysql.gif)
+   
+* Customer Interacting with Bamazon
+    * ![!](https://github.com/msiller93/Bamazon/blob/master/bamazon-gifs/itemListgif.gif)
+
+
+* Customer Choosing the Item to Order
+    * ![!](https://github.com/msiller93/Bamazon/blob/master/bamazon-gifs/itemID.gif)
